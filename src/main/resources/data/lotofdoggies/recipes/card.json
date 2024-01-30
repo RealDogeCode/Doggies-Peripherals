@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:paper"
+    },
+    "X": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "#X#"
+  ],
+  "result": {
+    "item": "lotofdoggies:card"
+  },
+  "show_notification": true
+}
