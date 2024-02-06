@@ -14,7 +14,7 @@ public class DoggiesItems {
     public static RegistryObject<CardItem> CARD_ITEM;
 
     public static void loadItems(IEventBus bus){
-        CARD_ITEM = ITEMS.register("card", () -> new CardItem(new Item.Properties()));
+        CARD_ITEM = ITEMS.register("card", () -> new CardItem(new Item.Properties().stacksTo(1)));
 
         ITEMS.register(bus);
         DoggiesMod.LOGGER.debug("Items Loaded! :D");

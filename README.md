@@ -4,6 +4,8 @@
 <br>
 This mod is a addon of CC: Tweaked which adds more Peripherals!
 
+<span style="color: gray">If you don't know how to use this mod, go <a href="https://tweaked.cc/module/peripheral.html">here</a>. </span>
+
 ## Features
 ❌ - Unimplemented
 ✅ - Implemented
