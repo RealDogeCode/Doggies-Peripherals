@@ -13,6 +13,8 @@ This mod is a addon of CC: Tweaked which adds more Peripherals!
 | ------------- | ------------- |
 | ✅ | Card Reader with dyeable cards |
 | ❓ | Player Detector in area |
-| ❌ | Fingerprint Reader |
+| ❌ | Teleporter with energy consumption |
+| ❌ | Drones |
+| ❌ | Microphone with Simple Voice Chat Integration |
 
 <br>
