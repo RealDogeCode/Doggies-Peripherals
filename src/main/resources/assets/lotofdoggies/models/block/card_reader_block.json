@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "lotofdoggies:block/card_reader_front",
+    "side": "lotofdoggies:block/card_reader_side",
+    "top": "lotofdoggies:block/card_reader_side"
+  }
+}
